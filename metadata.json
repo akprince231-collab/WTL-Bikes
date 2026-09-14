@@ -1,0 +1,6 @@
+{
+  "name": "WTL Bikes",
+  "description": "Cinematic, animation-driven interactive brand experience for WTL Bikes featuring a recurring bicycle protagonist, experimental typography, and continuous visual storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
